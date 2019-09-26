@@ -1,1 +1,3 @@
 # exphost.rpmbuild.confd
+
+init
