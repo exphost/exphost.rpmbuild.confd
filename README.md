@@ -3,3 +3,5 @@
 Pierwsza zmiana
 
 Druga zmiana
+
+zmiana juz na dns-ach
