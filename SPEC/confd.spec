@@ -1,6 +1,8 @@
 Name:           confd
 Version:        0.16.0
-Release:        1%{?dist}
+
+%define build_timestamp %(date +"%Y%m%d")
+Release:        %{build_timestamp}
 Summary:        Confd
 %undefine _disable_source_fetch
 
