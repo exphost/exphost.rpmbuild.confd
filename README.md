@@ -1,3 +1,3 @@
 # exphost.rpmbuild.confd
 
-rpmbuild for confd
+SPEC file for confd
